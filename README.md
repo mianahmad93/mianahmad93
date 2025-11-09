@@ -1,8 +1,8 @@
-# Hey 👋 Warm Welcome! 🤗
-
-### This is **Muhammad Ahmad**, A Software Engineer from **PAKISTAN** 🇵🇰
-
-I have **2+ years experience** as a **MERN Stack Developer** and **Frontend Specialist**.
+👋 Hey there, I'm Muhammad Ahmad
+💻 Front-End Developer | React.js Enthusiast | UI Builder
+🌍 Based in: Faisalabad, Punjab, Pakistan 🇵🇰
+💼 Experience: 2+ years as a MERN Stack Developer
+I'm passionate about building responsive, interactive, and modern web applications using React.js and cutting-edge UI frameworks. I focus on creating clean, maintainable code and optimizing user experience through efficient design and performance.
 
 You can hop onto my **portfolio** below: 👇  
 🌐 [**My Portfolio**](https://ahmads-portfolio-site.netlify.app/)
@@ -88,59 +88,6 @@ You can hop onto my **portfolio** below: 👇
 
 ---
 
-## 💼 Professional Experience
-
-### **Frontend Developer** | ZEMTECH Software House
-📅 **May 2025 – Present** | Faisalabad, Punjab, Pakistan
-
-- ✅ Built responsive and interactive web UIs using **React.js & Bootstrap**
-- ✅ Integrated **RESTful APIs** to deliver dynamic front-end experiences
-- ✅ Collaborated in **Agile sprints** to ensure timely, quality delivery
-- ✅ Developed **reusable and optimized components** for better scalability
-- ✅ Enhanced application performance through **clean architecture** and efficient rendering
-
----
-
-### **Frontend Developer** | THE PARADISE WORKSPACE
-📅 **Nov 2024 – May 2025** | Faisalabad, Punjab, Pakistan
-
-- ✅ Developed and customized **WordPress websites** using Elementor
-- ✅ Created **responsive layouts** aligned with diverse client requirements
-- ✅ Utilized **Git** for version control and collaborative development
-- ✅ Contributed to team projects across **design, development, and deployment**
-
----
-
-## 🎓 Education
-
-**🎓 Bachelor's in Computer Science**  
-Government College University Faisalabad | 2020 – 2024
-
-**💻 Intermediate in Computer Science**  
-Independent College | 2018 – 2020
-
----
-
-## 🌍 Languages
-
-- **Urdu:** Native  
-- **English:** Advanced
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mianahmad93&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mianahmad93&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianahmad93&theme=tokyonight)
-
-</div>
-
----
 
 ## 🤝 Want to Connect with me?
 
