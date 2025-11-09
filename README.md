@@ -3,7 +3,7 @@
 ### 💻 Front-End Developer | React.js Enthusiast | UI Builder
 
 🌍 **Based in:** Faisalabad, Punjab, Pakistan 🇵🇰  
-💼 **Experience:** 2+ years as a MERN Stack Developer
+💼 **Experience:** 2+ years as a Frontend Developer
 
 I'm passionate about building **responsive, interactive, and modern web applications** using React.js and cutting-edge UI frameworks. I focus on creating clean, maintainable code and optimizing user experience through efficient design and performance.
 
@@ -73,23 +73,6 @@ You can hop onto my **portfolio** below: 👇
 
 ---
 
-## 📂 Featured Projects
-
-### 🛍️ **Coza Store Clone**
-> A responsive e-commerce front-end for browsing fashion products with a clean, user-friendly design.
-
-**🔗 Live Demo:** [Coza Store App](https://coza-store-app.netlify.app/)  
-**💻 Tech Stack:** React.js | Bootstrap | REST API | Responsive Design
-
----
-
-### 🌐 **Portfolio Site**
-> A modern, responsive personal portfolio site showcasing projects and skills with smooth navigation.
-
-**🔗 Live Demo:** [Ahmad's Portfolio](https://ahmads-portfolio-site.netlify.app/)  
-**💻 Tech Stack:** React.js | Tailwind CSS | Modern UI/UX | Responsive Design
-
----
 
 ## 🤝 Want to Connect with me?
 
