@@ -1,8 +1,11 @@
-👋 Hey there, I'm Muhammad Ahmad
-💻 Front-End Developer | React.js Enthusiast | UI Builder
-🌍 Based in: Faisalabad, Punjab, Pakistan 🇵🇰
-💼 Experience: 2+ years as a MERN Stack Developer
-I'm passionate about building responsive, interactive, and modern web applications using React.js and cutting-edge UI frameworks. I focus on creating clean, maintainable code and optimizing user experience through efficient design and performance.
+# 👋 Hey there, I'm Muhammad Ahmad
+
+### 💻 Front-End Developer | React.js Enthusiast | UI Builder
+
+🌍 **Based in:** Faisalabad, Punjab, Pakistan 🇵🇰  
+💼 **Experience:** 2+ years as a MERN Stack Developer
+
+I'm passionate about building **responsive, interactive, and modern web applications** using React.js and cutting-edge UI frameworks. I focus on creating clean, maintainable code and optimizing user experience through efficient design and performance.
 
 You can hop onto my **portfolio** below: 👇  
 🌐 [**My Portfolio**](https://ahmads-portfolio-site.netlify.app/)
@@ -87,7 +90,6 @@ You can hop onto my **portfolio** below: 👇
 **💻 Tech Stack:** React.js | Tailwind CSS | Modern UI/UX | Responsive Design
 
 ---
-
 
 ## 🤝 Want to Connect with me?
 
